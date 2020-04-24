@@ -1,0 +1,22 @@
+E:\Tanza Web\Tanza Web\Tanza Web\bin\Debug\Tanza Web.exe.config
+E:\Tanza Web\Tanza Web\Tanza Web\bin\Debug\Tanza Web.exe
+E:\Tanza Web\Tanza Web\Tanza Web\bin\Debug\Tanza Web.pdb
+E:\Tanza Web\Tanza Web\Tanza Web\bin\Debug\Tanza Web.xml
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.theme.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.Resources.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza Web.vbproj.GenerateResource.Cache
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza Web.exe
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza Web.xml
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza Web.pdb
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.theloai.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.maytinhthietbi.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.nghethuatthietke.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.connguoi.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.giaoduckhoahoc.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.host.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.internet.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.phanmem.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.sach.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.thiennhien.resources
+E:\Tanza Web\Tanza Web\Tanza Web\obj\Debug\Tanza_Web.maytinh1.resources
+E:\Tanza Web\Tanza Web\Tanza Web\bin\Debug\Tazan Web.exe.config

@@ -1,0 +1,32 @@
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.exe.config
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.exe.manifest
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.application
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.exe
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.pdb
+E:\Tazan Web\Tazan Web\Tazan Web\bin\Debug\Tanza Web.xml
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tazan Web.vbproj.ResolveComReference.cache
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.about_soft.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.bbcode.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.connguoi.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.theme.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.fr_canhan.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.giaoduckhoahoc.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.goiy.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.host.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.internet.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.load.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.maytinh1.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.maytinhthietbi.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.about.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.Resources.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.nghethuatthietke.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.phanmem.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.sach.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.theloai.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza_Web.thiennhien.resources
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tazan Web.vbproj.GenerateResource.Cache
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza Web.exe.manifest
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza Web.application
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza Web.exe
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza Web.xml
+E:\Tazan Web\Tazan Web\Tazan Web\obj\Debug\Tanza Web.pdb

@@ -1,0 +1,308 @@
+<HTML>
+<HEAD>
+<TITLE>E-books Site</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+<!-- Image Preloader -->
+<script type="text/javascript" src="http://ajax.googlesapi.com/ajax/libs/jquery/jquery.min.js"></script>
+
+<!-- ImageReady Preload Script (index.psd) -->
+<SCRIPT TYPE="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		home_over = newImage("images/home-over.gif");
+		e_books_over = newImage("images/e-books-over.gif");
+		my_account_over = newImage("images/my-account-over.gif");
+		help_over = newImage("images/help-over.gif");
+		contacts_over = newImage("images/contacts-over.gif");
+		list_of_subjects_over = newImage("images/list-of-subjects-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+<!-- End Preload Script -->
+</HEAD>
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+<center>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 ONLOAD="preloadImages();">
+<!-- ImageReady Slices (index.psd) -->
+<TABLE WIDTH=775 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD COLSPAN=5 ROWSPAN=2>
+			<IMG SRC="images/title.gif" WIDTH=294 HEIGHT=73 ALT=""></TD>
+		<TD COLSPAN=13>
+			<IMG SRC="images/m1.gif" WIDTH=205 HEIGHT=28 ALT=""></TD>
+		<TD COLSPAN=2 ROWSPAN=7>
+			<IMG SRC="images/main1.gif" WIDTH=144 HEIGHT=315 ALT=""></TD>
+		<TD COLSPAN=3>
+			<IMG SRC="images/m5.gif" WIDTH=132 HEIGHT=28 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=28 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='home'; changeImages('home', 'images/home-over.gif'); return true;"
+				ONMOUSEOUT="window.status=''; changeImages('home', 'images/home.gif'); return true;">
+				<IMG NAME="home" SRC="images/home.gif" WIDTH=31 HEIGHT=45 BORDER=0 ALT="home"></A></TD>
+		<TD COLSPAN=2>
+			<IMG SRC="images/m2.gif" WIDTH=15 HEIGHT=45 ALT=""></TD>
+		<TD COLSPAN=2>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='e-books'; changeImages('e_books', 'images/e-books-over.gif'); return true;"
+				ONMOUSEOUT="window.status=''; changeImages('e_books', 'images/e-books.gif'); return true;">
+				<IMG NAME="e_books" SRC="images/e-books.gif" WIDTH=45 HEIGHT=45 BORDER=0 ALT="e-books"></A></TD>
+		<TD>
+			<IMG SRC="images/m3.gif" WIDTH=14 HEIGHT=45 ALT=""></TD>
+		<TD>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('my_account', 'images/my-account-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('my_account', 'images/my-account.gif'); return true;">
+				<IMG NAME="my_account" SRC="images/my-account.gif" WIDTH=61 HEIGHT=45 BORDER=0 ALT=""></A></TD>
+		<TD COLSPAN=3>
+			<IMG SRC="images/m4.gif" WIDTH=15 HEIGHT=45 ALT=""></TD>
+		<TD>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='help'; changeImages('help', 'images/help-over.gif'); return true;"
+				ONMOUSEOUT="window.status=''; changeImages('help', 'images/help.gif'); return true;">
+				<IMG NAME="help" SRC="images/help.gif" WIDTH=24 HEIGHT=45 BORDER=0 ALT="help"></A></TD>
+		<TD>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='contacts'; changeImages('contacts', 'images/contacts-over.gif'); return true;"
+				ONMOUSEOUT="window.status=''; changeImages('contacts', 'images/contacts.gif'); return true;">
+				<IMG NAME="contacts" SRC="images/contacts.gif" WIDTH=45 HEIGHT=45 BORDER=0 ALT="contacts"></A></TD>
+		<TD COLSPAN=2>
+			<IMG SRC="images/m6.gif" WIDTH=87 HEIGHT=45 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=45 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=8>
+			<IMG SRC="images/s1.gif" WIDTH=325 HEIGHT=32 ALT=""></TD>
+		<TD COLSPAN=5 ROWSPAN=2>
+			<IMG SRC="images/m7.gif" WIDTH=74 HEIGHT=56 ALT=""></TD>
+		<TD COLSPAN=3 ROWSPAN=2>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='list of subjects'; changeImages('list_of_subjects', 'images/list-of-subjects-over.gif'); return true;"
+				ONMOUSEOUT="window.status=''; changeImages('list_of_subjects', 'images/list-of-subjects.gif'); return true;">
+				<IMG NAME="list_of_subjects" SRC="images/list-of-subjects.gif" WIDTH=71 HEIGHT=56 BORDER=0 ALT="list of subjects"></A></TD>
+		<TD COLSPAN=2 ROWSPAN=2>
+			<IMG SRC="images/m8.gif" WIDTH=29 HEIGHT=56 ALT=""></TD>
+		<TD COLSPAN=3 ROWSPAN=5>
+			<IMG SRC="images/main2.gif" WIDTH=132 HEIGHT=242 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=32 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3>
+			<IMG SRC="images/s2.gif" WIDTH=151 HEIGHT=24 ALT=""></TD>
+		<TD COLSPAN=3 align="center" valign="middle" bgcolor="#333237">
+			<input name="textfield" type="text" class="inputstyle" size="30"></TD>
+		<TD COLSPAN=2>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='submit';  return true;"
+				ONMOUSEOUT="window.status='';  return true;">
+				<IMG SRC="images/submit.gif" WIDTH=25 HEIGHT=24 BORDER=0 ALT="submit"></A></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=24 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 ROWSPAN=3>
+			<IMG SRC="images/feat1.gif" WIDTH=163 HEIGHT=186 ALT=""></TD>
+		<TD COLSPAN=13>
+			<IMG SRC="images/feat2.gif" WIDTH=312 HEIGHT=68 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<IMG SRC="images/feat3.gif" WIDTH=24 HEIGHT=171 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=68 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=13 align="left" valign="top" bgcolor="#333237">
+			<span class="text1">Lorem ipsum dolor sit amet, cons etetur sadi pscing sed diam ipsum</span> At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet,<br>
+			<br>
+		  Erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadi pscing elitr, sed dam Erat, sed diam voluptua. <a href="#" class="a">read more</a></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=103 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=14>
+			<IMG SRC="images/feat4.gif" WIDTH=336 HEIGHT=15 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=15 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=11 ROWSPAN=2>
+			<IMG SRC="images/special1.gif" WIDTH=355 HEIGHT=140 ALT=""></TD>
+		<TD COLSPAN=4 ROWSPAN=3>
+			<IMG SRC="images/new2.gif" WIDTH=109 HEIGHT=143 ALT=""></TD>
+		<TD COLSPAN=8>
+			<IMG SRC="images/new1.gif" WIDTH=311 HEIGHT=60 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=60 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=7 ROWSPAN=2 align="left" valign="top" background="images/b_new.gif">
+			<span class="text2">Excellent Biography</span><br>
+			<br>
+		  Erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadi pscing elitr, sed dam Erat, sed diam voluptua. <a href="#" class="a">read more</a></TD>
+		<TD ROWSPAN=2>
+			<IMG SRC="images/new3.gif" WIDTH=69 HEIGHT=83 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=80 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=3>
+			<IMG SRC="images/special2.gif" WIDTH=70 HEIGHT=82 ALT=""></TD>
+		<TD COLSPAN=6 ROWSPAN=3 align="left" valign="top" class="text3">
+			<span class="text4">Limited Offer</span><br>
+			<br>
+		  Erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadi pscing elitr, sed dam Erat, sed diam voluptua. <a href="#" class="b">read more</a></TD>
+		<TD COLSPAN=4 ROWSPAN=3 align="left" valign="top">
+			<IMG SRC="images/special3.gif" WIDTH=45 HEIGHT=82 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 ROWSPAN=5>
+			<IMG SRC="images/best2.gif" WIDTH=109 HEIGHT=159 ALT=""></TD>
+		<TD COLSPAN=8 align="left" valign="top">
+			<IMG SRC="images/best1.gif" WIDTH=311 HEIGHT=46 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=46 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=7 ROWSPAN=3 align="left" valign="top" background="images/b_best.gif">
+			<span class="text2">Great Author</span><br>
+			<br>
+		  Erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadi pscing elitr, sed dam Erat, sed diam voluptua. <a href="#" class="a">read more</a></TD>
+		<TD ROWSPAN=4>
+			<IMG SRC="images/best3.gif" WIDTH=69 HEIGHT=113 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=33 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=11>
+			<IMG SRC="images/test1.gif" WIDTH=355 HEIGHT=25 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=25 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+			<IMG SRC="images/test2.gif" WIDTH=93 HEIGHT=38 ALT=""></TD>
+		<TD COLSPAN=7 align="left" valign="top" class="text3">
+			Lrat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadi pscing elitr</TD>
+		<TD COLSPAN=2>
+			<IMG SRC="images/test3.gif" WIDTH=23 HEIGHT=38 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=38 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=11>
+			<IMG SRC="images/test4.gif" WIDTH=355 HEIGHT=17 ALT=""></TD>
+		<TD COLSPAN=4>
+			<IMG SRC="images/best4.gif" WIDTH=123 HEIGHT=17 ALT=""></TD>
+		<TD COLSPAN=3>
+			<A HREF="#"
+				ONMOUSEOVER="window.status='more';  return true;"
+				ONMOUSEOUT="window.status='';  return true;">
+				<IMG SRC="images/more.gif" WIDTH=119 HEIGHT=17 BORDER=0 ALT="more"></A></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=17 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=23>
+			<IMG SRC="images/down1.gif" WIDTH=775 HEIGHT=19 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=19 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=23 align="center" valign="middle" bgcolor="#1D1C21" style="padding-bottom: 10px;"><a href="#">Home</a> | <a href="#">About Us</a> | <a href="#">E-books</a> | <a href="#">Support</a> | <a href="#">Partners</a> | <a href="#">News</a> | <a href="%5C">Contact Us</a><br><span class="text5">Copyright &copy; Profesional Designers</span></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=44 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=70 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=23 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=58 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=12 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=131 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=6 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=10 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=15 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=7 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=15 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=30 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=14 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=61 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=4 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=6 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=5 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=24 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=88 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=56 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=45 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=18 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=69 HEIGHT=1 ALT=""></TD>
+		<TD></TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+			<div align="center">
+				<table align="center" cellspacing="0" cellpadding="5" border="0" style="margin: 0px 0px 0px 0px;">
+					<tr valign="middle">
+						<td><a href="http://www.hosting24.com/" target="_blank"><img alt="Web hosting" src="images/img_link_01.png" height="15" width="80" border="0" /></a></td>
+						<td><a href="http://www.youhosting.com/" target="_blank"><img alt="Reseller hosting" src="images/img_link_02.png" height="15" width="80" border="0" /></a></td>
+						<td><a href="http://www.vps.me/" target="_blank"><img alt="VPS hosting" src="images/img_link_03.png" height="15" width="80" border="0" /></a></td>
+						<td><a href="http://www.hostinger.com/" target="_blank"><img alt="Web Hosting" src="images/img_link_04.png" height="15" width="80" border="0" /></a></td>
+						<td><a href="http://www.boxbilling.com/" target="_blank"><img alt="Billing software" src="images/img_link_05.png" height="25" width="54" border="0" /></a></td>
+					</tr>
+				</table>
+			</div>
+</BODY>
+</center>
+</HTML>
