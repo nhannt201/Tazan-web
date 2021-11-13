@@ -1,7 +1,7 @@
 # Tanza Web – Tạo web nhanh theo chủ đề!  
 - Tác giả: Nguyễn Trung Nhẫn  
 - Sản phẩm dự thi KHKT cấp trường 2017  - Trường THCS - THPT Nguyễn Văn Khải
-- 
+
 ![Tanza Web](https://i.imgur.com/Rggdakl.png)
 
 > Ưu điểm:
